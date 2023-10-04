@@ -27,11 +27,11 @@ const Header = (prop) => {
   const [search, setSearch] = useState('');
 
   const searchRef = createRef();
-  const bannerMessage = 'Free shipping worldwide';
+  const bannerMessage = '1/800 Kgale Section | Phokeng | Rustenburg | 0335 || Open Mon - Sat, 09:00 - 18:00';
   const searchSuggestions = [
-    'Oversize sweaters',
-    'Lama Pajamas',
-    'Candles Cinnamon',
+    'Internet',
+    'Water',
+    'Ice-Cream',
   ];
 
   const handleHover = (navObject) => {
